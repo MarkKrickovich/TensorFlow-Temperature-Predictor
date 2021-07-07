@@ -1,4 +1,4 @@
-# TensorFlow-Temperature-Predictor
+# TensorFlow: Temperature-Predictor
 Deep Learning Python Library "TensorFlow" and "Keras" API
 <center><img src="Images/surpriselib.png"/></center>
 
